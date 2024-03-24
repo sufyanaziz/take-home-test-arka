@@ -1,46 +1,17 @@
-# Getting Started with Create React App
+## Take Home Test Arka
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Create Eid Card with CSS
+<img width="1439" alt="image" src="https://github.com/sufyanaziz/take-home-test-arka/assets/49118546/6dafc693-8406-4251-9cf9-c1fb569522cc">
 
-## Available Scripts
+2. Dropdown Education Level
+<img width="1437" alt="image" src="https://github.com/sufyanaziz/take-home-test-arka/assets/49118546/b14a176c-1ff7-4ac4-9b1b-dd0f63e20600">
 
-In the project directory, you can run:
+3. Avatar Generator
+<img width="1440" alt="image" src="https://github.com/sufyanaziz/take-home-test-arka/assets/49118546/811e982b-5d99-4c0f-ad4f-390f5fc511c1">
 
-### `npm start`
+### 💻 Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- CSS
+- React
+- TypeScript
+  
