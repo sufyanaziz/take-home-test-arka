@@ -43,3 +43,34 @@
   align-items: center;
   gap: 1rem;
 }
+
+/* Education List */
+.education-list-container {
+  width: 100vw;
+  padding: 1rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.education-list-input-select {
+  min-width: 240px;
+  padding: 8px;
+  border-radius: 4px;
+  background-color: #39823c;
+  border: 1px solid #39823c;
+  color: white;
+}
+.education-list-input-select:focus {
+  outline-color: #add3b6;
+  outline-offset: 1px;
+}
+
+.education-list-input-select.secondary {
+  background-color: #c83a3a;
+  border: 1px solid #c83a3a;
+}
+
+.education-list-input-select.secondary:focus {
+  outline-color: #dea0a5;
+  outline-offset: 1px;
+}
