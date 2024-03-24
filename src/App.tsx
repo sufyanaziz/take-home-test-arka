@@ -1,6 +1,7 @@
 import React from "react";
 import EidCard from "./components/EidCard";
 import EducationList from "./components/EducationList";
+import AvatarGenerator from "./components/AvatarGenerator";
 
 import "./App.css";
 
@@ -9,6 +10,7 @@ function App() {
     <div className="App">
       <EidCard />
       <EducationList />
+      <AvatarGenerator />
     </div>
   );
 }

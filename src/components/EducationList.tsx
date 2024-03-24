@@ -18,8 +18,8 @@ const EducationList = () => {
   };
 
   return (
-    <>
-      <h1 style={{ padding: "16px 16px 4px 16px" }}>Education List</h1>
+    <div id="2" style={{ padding: "1rem 0" }}>
+      <h1 style={{ padding: "16px 16px 4px 16px" }}>2. Education List</h1>
       <div className="education-list-container">
         <div className="education-list-type">
           <select
@@ -46,7 +46,9 @@ const EducationList = () => {
             <option value="" hidden>
               {!educationKey ? `Pilih tingkatan` : "Pilih jenjangnya dulu!"}
             </option>
-            <optgroup label={data.title ? data.title : "Pilih tingkatan"}>
+            <optgroup
+              label={data.title ? `Jenjang ${data.title}` : "Pilih tingkatan"}
+            >
               {data.data?.map((ed) => (
                 <option key={ed.value} value={ed.value}>
                   {ed.title}
@@ -56,7 +58,7 @@ const EducationList = () => {
           </select>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

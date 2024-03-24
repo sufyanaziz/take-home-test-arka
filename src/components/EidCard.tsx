@@ -2,7 +2,7 @@ import React from "react";
 
 const EidCard = () => {
   return (
-    <div className="eid-card-container">
+    <div id="1" className="eid-card-container">
       <div className="eid-card-diamond-container">
         <div className="eid-card-diamond-section">
           <div className="eid-card-diamond" />
